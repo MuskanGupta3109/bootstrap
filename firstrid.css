@@ -1,0 +1,32 @@
+.aa{
+    padding: 0px;
+}
+.a{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.img{
+    height: 70%;
+}
+.ab{
+    position: relative;
+    top:-11px;
+    
+}
+.ab a{
+    background: #fbb029;
+    width: auto;
+    padding: 11px 64px;
+
+   
+}
