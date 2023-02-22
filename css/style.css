@@ -1,0 +1,19 @@
+.us{
+    background-image: url(https://images.shiksha.com/mediadata/images/1574247693phpFhe6pF.png);
+    background-size: cover;
+    /* height:100%; */
+    width:100%;
+    background-position: center;
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    color:white;
+    /* padding-top: 102px; */
+    padding: 300px 0px;
+}
+/* .ud{
+    border-radius: 30%;
+    border: 2px solid black;
+} */
+.ua{
+    padding: 10px 10px;
+}
